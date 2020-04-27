@@ -9,3 +9,9 @@ docker pull hanlyjiang/sonar-scanner-cli-zhcn
 
 
 其他用法和官方的一致，替换镜像即可，请参考：https://github.com/SonarSource/sonar-scanner-cli-docker
+
+
+## build
+```
+docker build -t hanlyjiang/sonar-scanner-cli-zhcn ./
+```
